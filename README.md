@@ -1,4 +1,4 @@
-# 🐍 Python Assignment #3 – Enhanced Hangman Game 🎮
+# 🐍 Python Assignment  – Enhanced Hangman Game 🎮
 
 ## 📝 Description
 
